@@ -29,7 +29,7 @@ namespace OCP\Authentication\TwoFactorAuth;
 use OCP\IUser;
 
 /**
- * Marks a 2FA provider as activale by the administrator. This means that an
+ * Marks a 2FA provider as activatable by the administrator. This means that an
  * admin can activate this provider without user interaction. The provider,
  * therefore, must not require any user-provided configuration.
  *
